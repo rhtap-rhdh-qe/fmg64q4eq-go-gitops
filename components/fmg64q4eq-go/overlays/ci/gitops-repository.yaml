@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: fmg64q4eq-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/fmg64q4eq-go-gitops
